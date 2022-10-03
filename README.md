@@ -1,5 +1,5 @@
 # Bookshop Management System
-A Bookshop Management System that I made using **C#, .NET and Windows Forms and Database MS SQL Server**. This project was made just for fun in a week of time when I implemented interface on my database. Projects can save database of Suppliers, Stock, Employees, Customers, Orders, Bills and Payments. It implements all the exception handling so that there is no errors when books are added, removed, issued from the database etc.
+A Bookshop Management System that I made using **C#, .NET and Windows Forms and Database MS SQL Server**. This project was made just for fun in a week of time when I implemented interface on my database. Projects can save database of Suppliers, Stock, Employees, Customers, Orders, Bills and Payments. I aslo implemented some the exception handling so that there is no errors when books are added, removed, issued from the database etc.
 
 **To make the system working, the connetion string needs to be changed so that it can connect to the right server**.
 
